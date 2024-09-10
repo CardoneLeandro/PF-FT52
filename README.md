@@ -5,8 +5,9 @@ GIT PUSH ORIGIN <RAMA_PERSONAL>
 
 GIT PULL ORIGIN DEVELOPMENT
 
+GIT STASH 
 
-
+//----------------------------------------------------------------------
 
 VARIABLES DE ENTORNO BACK
 
