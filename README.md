@@ -19,9 +19,13 @@ GIT STASH <-- investigate
 //----------------------------------------------------------------------
 
 References: Rango de jerarquías 👇
+
 backstick --> `` (for template strings)
+
 single quotes --> ''
+
 double quotes --> ""
+
 
 Formato de escritura: cammelCase
 
